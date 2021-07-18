@@ -1,10 +1,11 @@
 <table border="0">
-  <style type="text/css"> 
+  
+  <tr>
+    <style type="text/css"> 
       body{ background: url("/") no-repeat center center fixed;
       -webkit-background-size: cover; 
       -o-background-size: cover; background-size: cover; } 
-  </style>
-  <tr>
+    </style>
     <td width="75%">
       <h1>杨航</h1>
       <p><b>硕士研究生</b></p>
