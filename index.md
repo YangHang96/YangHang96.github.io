@@ -1,4 +1,9 @@
 <table border="0">
+  <style type="text/css"> 
+      body{ background: url("/") no-repeat center center fixed;
+      -webkit-background-size: cover; 
+      -o-background-size: cover; background-size: cover; } 
+  </style>
   <tr>
     <td width="75%">
       <h1>杨航</h1>
